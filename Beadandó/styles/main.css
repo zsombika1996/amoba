@@ -1,0 +1,25 @@
+#egesz {
+	float: left;
+	width: 100%;
+	}
+label {
+	line-height: 30px;
+
+	}
+label input, label textarea {
+	/*position: relative;
+	left: 200px;*/
+	float: right;
+	border: 2px rgb(41, 113, 32) solid;
+	padding: 2px;
+	}
+textarea {
+	width: 350px;
+	}
+input[type="submit"] {
+	float: right;
+	clear: both;
+	}
+button {
+	float: right;
+	}
